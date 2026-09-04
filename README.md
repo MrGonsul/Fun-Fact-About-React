@@ -6,6 +6,13 @@
 
 A hands-on **React.js learning project** created to build a strong foundation in modern frontend development and understand the core concepts behind React.
 
+---
+
+<p align="center"> 
+  <img src="./practice.png" alt="Practice">
+ </p>
+
+---
 
 ## 📚 What We Learned
 
